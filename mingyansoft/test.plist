@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.gd.elizabeth.DaoTian</string>
+				<string>com.mingyansoft.DaoTian</string>
 				<key>bundle-version</key>
-				<string>5.1</string>
+				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
